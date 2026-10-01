@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+
+# the record and its exports never enter a repository
+DATA/
+EXPORTS/
+**/EXPORTS/
+*.xlsx
