@@ -16,8 +16,52 @@
     }
   ],
   "icons": [
-    {"src": "https://a2a-grocery.ai/icon.svg", "mimeType": "image/svg+xml", "sizes": ["any"], "theme": "light"},
-    {"src": "https://a2a-grocery.ai/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"], "theme": "light"},
-    {"src": "https://a2a-grocery.ai/icon-512-dark.png", "mimeType": "image/png", "sizes": ["512x512"], "theme": "dark"}
-  ]
+    {
+      "src": "https://a2a-grocery.ai/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ],
+      "theme": "light"
+    },
+    {
+      "src": "https://a2a-grocery.ai/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ],
+      "theme": "light"
+    },
+    {
+      "src": "https://a2a-grocery.ai/icon-512-dark.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ],
+      "theme": "dark"
+    }
+  ],
+  "_meta": {
+    "io.modelcontextprotocol.registry/publisher-provided": {
+      "title": "A2A Grocery — the agentic hub for retail grocery procurement",
+      "line_two": "Powered by SCHEMA algo for grocery agentic commerce",
+      "description": "Agent-to-Agent (A2A) + Model Context Protocol (MCP) hub for retail grocery, speciality foods first. Business to business: makers, brand owners, private label, distributors, importers, retailers and their AI agents. Twenty markets on the SCHEMA algo grocery record; ambient, chilled, frozen and fresh; organic, free-from, plant-based, artisan, origin and premium lanes. Call resolve_jurisdiction, then resolve_actor, then gate_transaction before any availability, price, documents, order or handoff tool; those tools refuse without an allow decision. Every record field carries its source page; every response carries notice; every record carries claim_status (listed · claimed · verified). Artificial intelligence makes mistakes. A2A Grocery is an agentic information source, not a recommendation. No ads, ever. No rank for sale. Trade only.",
+      "notice": "Artificial intelligence makes mistakes. A2A Grocery is an agentic information source, not a recommendation. No ads, ever. No rank for sale. Trade only.",
+      "publisher": "GreenCore Solutions Corp.",
+      "publisher_url": "https://a2a-grocery.ai/legal",
+      "tools": 19,
+      "transport": "streamable-http",
+      "documentation": "https://a2a-grocery.ai/docs",
+      "setup": "https://a2a-grocery.ai/setup",
+      "support": "https://a2a-grocery.ai/support",
+      "terms": "https://a2a-grocery.ai/terms",
+      "privacy": "https://a2a-grocery.ai/privacy",
+      "security": "https://a2a-grocery.ai/security",
+      "agent_card": "https://a2a-grocery.ai/.well-known/agent-card.json",
+      "standard": "https://a2a-schema.org/",
+      "schema": "https://a2a-grocery.ai/schema-algo.json",
+      "health": "https://mcp.a2a-grocery.ai/health.json",
+      "contact": "mcp@a2a-grocery.ai"
+    }
+  }
 }
