@@ -3,7 +3,7 @@
   "name": "io.github.greencore-solutions/a2a-grocery",
   "title": "A2A Grocery — the agentic hub for retail grocery procurement",
   "description": "A2A + MCP hub for retail grocery procurement — 20 markets on the SCHEMA algo record. Trade only.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://a2a-grocery.ai",
   "repository": {
     "url": "https://github.com/greencore-solutions/a2a-grocery",
@@ -45,7 +45,7 @@
     "io.modelcontextprotocol.registry/publisher-provided": {
       "title": "A2A Grocery — the agentic hub for retail grocery procurement",
       "line_two": "Powered by SCHEMA algo for grocery agentic commerce",
-      "description": "Agent-to-Agent (A2A) + Model Context Protocol (MCP) hub for retail grocery, speciality foods first. Business to business: makers, brand owners, private label, distributors, importers, retailers and their AI agents. Twenty markets on the SCHEMA algo grocery record; ambient, chilled, frozen and fresh; organic, free-from, plant-based, artisan, origin and premium lanes. Call resolve_jurisdiction, then resolve_actor, then gate_transaction before any availability, price, documents, order or handoff tool; those tools refuse without an allow decision. Every record field carries its source page; every response carries notice; every record carries claim_status (listed · claimed · verified). Artificial intelligence makes mistakes. A2A Grocery is an agentic information source, not a recommendation. No ads, ever. No rank for sale. Trade only.",
+      "description": "Agent-to-Agent (A2A) + Model Context Protocol (MCP) hub for retail grocery. Business to business: makers, brand owners, private label, distributors, importers, retailers and their AI agents. Twenty markets on the SCHEMA algo grocery record; ambient, chilled, frozen and fresh; organic, free-from, plant-based, artisan, origin and premium lanes. Call resolve_jurisdiction, then resolve_actor, then gate_transaction before any availability, price, documents, order or handoff tool; those tools refuse without an allow decision. Every record field carries its source page; every response carries notice; every record carries claim_status (listed · claimed · verified). Artificial intelligence makes mistakes. A2A Grocery is an agentic information source, not a recommendation. No ads, ever. No rank for sale. Trade only.",
       "notice": "Artificial intelligence makes mistakes. A2A Grocery is an agentic information source, not a recommendation. No ads, ever. No rank for sale. Trade only.",
       "publisher": "GreenCore Solutions Corp.",
       "publisher_url": "https://a2a-grocery.ai/legal",
