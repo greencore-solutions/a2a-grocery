@@ -8,7 +8,7 @@ A2A Grocery is built and run by GreenCore Solutions Corp. (github.com/greencore-
 
 ## The door
 
-<!-- door:begin -->streamable-HTTP, stateless, server name `a2a-grocery`, door version 1.0.0, 19 tools (read from the door's own tools/list at build)<!-- door:end -->
+<!-- door:begin -->streamable-HTTP, stateless, server name `a2a-grocery`, door version 1.0.0, 19 tools (read from the wire 2026-10-02)<!-- door:end -->
 
 - Endpoint: `https://mcp.a2a-grocery.ai/mcp` — any client that speaks streamable-HTTP: `{ "url": "https://mcp.a2a-grocery.ai/mcp", "transport": "streamable-http" }`
 - A2A 0.3.0 JSON-RPC: `https://a2a-grocery.ai/a2a` (the hub) and `https://<country code>.a2a-grocery.ai/a2a` (one market agent per market, for example `fr.a2a-grocery.ai` for France)
