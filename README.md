@@ -1,7 +1,5 @@
 # A2A Grocery — the agentic hub for retail grocery procurement
 
-Launched 1 October 2026
-
 Powered by SCHEMA algo for grocery agentic commerce
 
 > Agent-to-Agent (A2A) + Model Context Protocol (MCP) hub for retail grocery. Business to business: makers, brand owners, private label, distributors, importers, retailers and their AI agents. Twenty markets on the SCHEMA algo grocery record; ambient, chilled, frozen and fresh; organic, free-from, plant-based, artisan, origin and premium lanes. Call resolve_jurisdiction, then resolve_actor, then gate_transaction before any availability, price, documents, order or handoff tool; those tools refuse without an allow decision. Every record field carries its source page; every response carries notice; every record carries claim_status (listed · claimed · verified). Artificial intelligence makes mistakes. A2A Grocery is an agentic information source, not a recommendation. No ads, ever. No rank for sale. Trade only.

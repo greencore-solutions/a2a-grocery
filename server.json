@@ -3,7 +3,7 @@
   "name": "io.github.greencore-solutions/a2a-grocery",
   "title": "A2A Grocery — the agentic hub for retail grocery procurement",
   "description": "A2A + MCP hub for retail grocery procurement — 20 markets on the SCHEMA algo record. Trade only.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "websiteUrl": "https://a2a-grocery.ai",
   "repository": {
     "url": "https://github.com/greencore-solutions/a2a-grocery",
@@ -61,8 +61,7 @@
       "standard": "https://a2a-schema.org/",
       "schema": "https://a2a-grocery.ai/schema-algo.json",
       "health": "https://mcp.a2a-grocery.ai/health.json",
-      "contact": "mcp@a2a-grocery.ai",
-      "launched": "2026-10-01"
+      "contact": "mcp@a2a-grocery.ai"
     }
   }
 }
