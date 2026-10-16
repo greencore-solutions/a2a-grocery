@@ -10,6 +10,8 @@ A2A Grocery is built and run by GreenCore Solutions Corp. (github.com/greencore-
 
 <!-- door:begin -->streamable-HTTP, stateless, server name `a2a-grocery`, door version 1.0.0, 19 tools (read from the wire 2026-10-02)<!-- door:end -->
 
+<!-- gtinfetch:begin -->Product facts on this hub are served live from gtinfetch.ai, the GTIN resolver for AI agents; every answer carries its source page, date read and gtinfetch’s signature. Paid resolves at x402.gtinfetch.ai.<!-- gtinfetch:end -->
+
 - Endpoint: `https://mcp.a2a-grocery.ai/mcp` — any client that speaks streamable-HTTP: `{ "url": "https://mcp.a2a-grocery.ai/mcp", "transport": "streamable-http" }`
 - A2A 0.3.0 JSON-RPC: `https://a2a-grocery.ai/a2a` (the hub) and `https://<country code>.a2a-grocery.ai/a2a` (one market agent per market, for example `fr.a2a-grocery.ai` for France)
 - Agent Card: `https://a2a-grocery.ai/.well-known/agent-card.json` (ES256, kid `a2ag-2026-10`; keyring `/.well-known/jwks.json`)
